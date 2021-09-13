@@ -1,8 +1,9 @@
 # REDIS PRACTICE
 
-## GOAL: redis를 활용한 간단한 게시판 구현
----
-##### docker 로 redis를 구동하고 연결 테스트
+## GOAL: redis를 활용한 간단한 CRUD 구현
+
+phase
+##### docker 로 redis를 구동하고 연결 테스트 (210913)
 - 연결에 관련된 설정은 AppConfig.java
 - 연결은 lettuce를 활용함
 
